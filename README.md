@@ -14,7 +14,12 @@ This repository contains my solutions for LeetCode problems.
 ## Solutions by Category
 
 ### Tree Problems
+- [_98_Validate_Binary_Search_Tree.py](_98_Validate_Binary_Search_Tree.py) - Validate Binary Search Tree
 - [_101_Symmetric_Tree.py](_101_Symmetric_Tree.py) - Symmetric Tree
+- [_102_Binary_Tree_Level_Order_Traversal.py](_102_Binary_Tree_Level_Order_Traversal.py) - Binary Tree Level Order Traversal
+- [_104_Maximum_Depth_of_Binary_Tree.py](_104_Maximum_Depth_of_Binary_Tree.py) - Maximum Depth of Binary Tree
+- [_114_Flatten_Binary_Tree_to_Linked_List.py](_114_Flatten_Binary_Tree_to_Linked_List.py) - Flatten Binary Tree to Linked List
+- [_226_Invert_Binary_Tree.py](_226_Invert_Binary_Tree.py) - Invert Binary Tree
 
 ### String Problems
 <!-- Add string problem solutions here -->
