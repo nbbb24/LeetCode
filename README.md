@@ -28,15 +28,15 @@ This repository contains my solutions for LeetCode problems in Python.
 
 ### Array & Two Pointers
 - [_121_Best_Time_to_Buy_and_Sell_Stock.py](_121_Best_Time_to_Buy_and_Sell_Stock.py) - Best Time to Buy and Sell Stock
+- [_136_Single_Number.py](_136_Single_Number.py) - Single Number
 
 ### Linked List
 - [_114_Flatten_Binary_Tree_to_Linked_List.py](_114_Flatten_Binary_Tree_to_Linked_List.py) - Flatten Binary Tree to Linked List
+- [_141_Linked_List_Cycle.py](_141_Linked_List_Cycle.py) - Linked List Cycle
 
 ### Binary Search & Sorting
 - [_287_Find_the_Duplicate_Number_1.py](_287_Find_the_Duplicate_Number_1.py) - Find the Duplicate Number (Solution 1)
 - [_287_Find_the_Duplicate_Number_2.py](_287_Find_the_Duplicate_Number_2.py) - Find the Duplicate Number (Solution 2)
-
-
 
 ## File Naming Convention
 
