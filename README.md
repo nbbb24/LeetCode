@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-This repository contains my solutions for LeetCode problems.
+This repository contains my solutions for LeetCode problems in Python.
 
 ## Resources
 
@@ -20,13 +20,29 @@ This repository contains my solutions for LeetCode problems.
 - [_104_Maximum_Depth_of_Binary_Tree.py](_104_Maximum_Depth_of_Binary_Tree.py) - Maximum Depth of Binary Tree
 - [_114_Flatten_Binary_Tree_to_Linked_List.py](_114_Flatten_Binary_Tree_to_Linked_List.py) - Flatten Binary Tree to Linked List
 - [_226_Invert_Binary_Tree.py](_226_Invert_Binary_Tree.py) - Invert Binary Tree
-
-### String Problems
-<!-- Add string problem solutions here -->
+- [_236_Lowest_Common_Ancestor_of_a_Binary_Tree.py](_236_Lowest_Common_Ancestor_of_a_Binary_Tree.py) - Lowest Common Ancestor of a Binary Tree
 
 ### Dynamic Programming
-<!-- Add dynamic programming solutions here -->
+- [_70_Climbing_Stairs_1.py](_70_Climbing_Stairs_1.py) - Climbing Stairs (Solution 1)
+- [_70_Climbing_Stairs_2.py](_70_Climbing_Stairs_2.py) - Climbing Stairs (Solution 2)
 
+### Array & Two Pointers
+- [_121_Best_Time_to_Buy_and_Sell_Stock.py](_121_Best_Time_to_Buy_and_Sell_Stock.py) - Best Time to Buy and Sell Stock
+
+### Linked List
+- [_114_Flatten_Binary_Tree_to_Linked_List.py](_114_Flatten_Binary_Tree_to_Linked_List.py) - Flatten Binary Tree to Linked List
+
+### Binary Search & Sorting
+- [_287_Find_the_Duplicate_Number_1.py](_287_Find_the_Duplicate_Number_1.py) - Find the Duplicate Number (Solution 1)
+- [_287_Find_the_Duplicate_Number_2.py](_287_Find_the_Duplicate_Number_2.py) - Find the Duplicate Number (Solution 2)
+
+
+
+## File Naming Convention
+
+All solution files follow the pattern: `_[ProblemNumber]_[ProblemName].py`
+
+For problems with multiple solutions, files are numbered sequentially (e.g., `_70_Climbing_Stairs_1.py`, `_70_Climbing_Stairs_2.py`).
 
 ## Contributing
 
